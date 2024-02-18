@@ -1,7 +1,7 @@
 --
 - id: 3
   tid: d3c53a13-7a6a-414d-b8b7-bbaecd467979
-  name: zattoo_web
+  name: web
   user_space: 1
   app_permissions:
   - - 16
